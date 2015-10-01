@@ -2025,8 +2025,8 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;有關我的作業&lt;/h1&gt;
-    &lt;p&gt;安安妮好唷&lt;/p&gt;		
+    &lt;h1&gt;四設計二甲&lt;/h1&gt;
+    &lt;p&gt;40323139&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
